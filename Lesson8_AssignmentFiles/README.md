@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 11, 2017
 
 ### Student Name:  
-(First and Last Name)
+Jackson Auer
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+We learned how to manipulate a web application with AJAX, jQuery, and JSON.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://jacksonauer.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. We learned what AJAX was and how to properly apply it to make it useful in a web application.
+2. We learned what JSON was and how to properly apply it to make it useful in a web application.
+3. We learned what an API is and how incredibly useful it is for not only the consumer, but the developer of a website or application as well.
